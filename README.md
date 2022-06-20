@@ -1,5 +1,40 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+This project has installed and configured all this next features listed below.
+
+Feel free to clone and modify as you need 🤗
+
+## Features:
+
+⚒️ Next.js
+
+⚙️ [TypeScript](https://www.typescriptlang.org/)
+
+🎨 [Tailwind CSS](https://tailwindcss.com/)
+
+📑 Layout with Header with nav, main y footer.
+
+🕶️ Dark Mode
+
+😜 [Hero Icons](https://heroicons.com/)
+
+📁 Absolute imports
+
+⚡️Tailwind Theme (tailwind.config.js):
+
+- Two colors: primary and secondary.
+- Custom Font.
+
+### References if you want to add something of this:
+
+🌸 Data Fetching: React Query ([https://github.com/TanStack/query](https://github.com/TanStack/query))
+
+🐻 State Manager: Zuztand ([https://github.com/pmndrs/zustand](https://github.com/pmndrs/zustand))
+
+📲 PWA: next-pwa ([https://github.com/shadowwalker/next-pwa](https://github.com/shadowwalker/next-pwa))
+
+🌍 Translates: i18n ([https://github.com/isaachinman/next-i18next](https://github.com/isaachinman/next-i18next))
+
 ## Getting Started
 
 First, run the development server:
